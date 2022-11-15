@@ -1,0 +1,2 @@
+fsm_automatic.c:8:6:led_red_blinking	8	static
+fsm_automatic.c:13:6:fsm_automatic_run	8	static
